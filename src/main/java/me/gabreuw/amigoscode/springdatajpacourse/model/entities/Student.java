@@ -1,9 +1,13 @@
 package me.gabreuw.amigoscode.springdatajpacourse.model.entities;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
 import java.util.Objects;
 
+@Entity(name = "Student")
 public class Student {
 
+    @Id
     private Long id;
     private String firstName;
     private String lastName;
