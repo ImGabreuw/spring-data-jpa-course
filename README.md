@@ -14,7 +14,3 @@
 <h2>Quer experimentar?</h2>
 
 [YOUTUBE](https://www.youtube.com/watch?v=8SGI_XS5OPw&list=WL&index=52)
-
-<h2>Outros cursos:</h2>
-
-[SITE](https://amigoscode.com/courses)
